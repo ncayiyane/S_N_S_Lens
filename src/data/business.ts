@@ -1,7 +1,7 @@
 /** Central business information. Update details here and they change site-wide. */
 export const business = {
   name: 'SnS_Lenses',
-  photographer: 'Sinoxolo_Melhlwana',
+  photographer: 'Sinoxolo_Mehlwana',
   tagline: 'Every frame tells a story.',
   location: {
     region: 'Kouga, Eastern Cape',
