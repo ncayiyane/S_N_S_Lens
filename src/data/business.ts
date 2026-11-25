@@ -27,7 +27,7 @@ export interface SiteImage {
 /** Single-use images. Replace the files in public/images and flip `placeholder` to false. */
 export const siteImages = {
   hero: {
-    src: '/images/hero/hero-main.webp',
+    src: '/images/hero/Photo_30.jpeg',
     alt: 'Placeholder hero artwork — replace with a signature SnS_Lenses photograph',
     width: 2400,
     height: 1500,
